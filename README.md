@@ -35,4 +35,4 @@ This project provided insights into the Netflix shows dataset, revealing popular
 [Link to SQL Queries Document]
 
 ## Pitch Deck Presentation
-[Link to Presentation]
+[https://gamma.app/docs/Netflix-Shows-Pitch-Deck-kwzcx4qwt6cjgg5]
